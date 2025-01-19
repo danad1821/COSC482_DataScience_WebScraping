@@ -41,4 +41,3 @@ You can preview the notebook using the "Open in Colab" badge below.
    git add .
    git commit -m "Completed Assignment 1"
    git push origin main
-```
