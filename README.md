@@ -12,9 +12,8 @@ Welcome to the repository for **COSC 482: Data Science and Web Scraping**. This 
 
 ### Step 2: Clone Your Forked Repository
 - Copy the URL of your forked repository from your GitHub account.
-- Clone it to your local machine using the following command:
-   ```bash
-   git clone https://github.com/roaasoloh/COSC482_DataScience_WebScraping.git
+- Clone it to your local machine using the following command in case you want to use it on your own side.
+   
 
 ### Step 3: Work on Assignments
 Assignments are organized in the `Assignments/` folder. Each assignment includes:
